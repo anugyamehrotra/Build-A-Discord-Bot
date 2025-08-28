@@ -1,4 +1,4 @@
-# Build-A-Discord-Bot
+# <img src="https://github.com/user-attachments/assets/a0de051d-b737-4b71-b252-fa7b48a4b559" alt="layely logo" width="40" height="40" style="position: relative; top: 6px;" /> Build a Discord Bot
 
 A personalized sample project: a simple **Interactive Discord Bot** built for the AIML room in **NP Hacks**.
 
