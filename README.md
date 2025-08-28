@@ -2,7 +2,7 @@
 
 A personalized sample project: a simple **Interactive Discord Bot** built for the AI/ML room in **NP Hacks**.
 
-This sample demonstrates foundational Python development concepts using only **Python** and **APIs**. It is designed to help students understand how to use Python constructs to design unique, expandable bots for online platforms, such a `Discord`, with the help of external APIs.
+This sample demonstrates foundational Python development concepts using only **Python** and **APIs**. It is designed to help students understand how to use Python constructs to design unique, expandable bots for online platforms, such as `Discord`, with the help of external APIs.
 
 <img width="2366" height="1094" alt="discord_bot_img1_project1" src="https://github.com/user-attachments/assets/e37008ff-98e6-47ea-afe9-4b0665955121" />
 
@@ -35,7 +35,7 @@ To access all API keys;
   - Click `Create New Application` & set a name
   - Head to `Bot`, Select `Reset Token` & copy the new token to add to your bot
 
-(For bot functionality, Go to `Bot`, scroll down & select `MESSAGE CONTENT INTENT`, go back to `OAuth2`, select `bot` & `Send Messages` in **TEXT PERMISSIONS**, then copy the generated URL to invite to your sever & begin coding!)
+(For bot functionality, Go to `Bot`, scroll down & select `MESSAGE CONTENT INTENT`, go back to `OAuth2`, select `bot` & `Send Messages` in **TEXT PERMISSIONS**, then copy the generated URL to invite to your server & begin coding!)
 
   ### Tenor API:
   - Follow this comprehensive [tutorial](https://developers.google.com/tenor/guides/quickstart)
