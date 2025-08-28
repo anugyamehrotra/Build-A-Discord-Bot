@@ -45,7 +45,8 @@ To access all API keys;
 First, clone the portfolio Repository to your local machine:
 
 ```bash
-
+git clone https://github.com/anugyamehrotra/Build-A-Discord-Bot.git
+cd Build-A-Discord-Bot
 ```
 # 🧩 Key Features
 
@@ -91,5 +92,5 @@ This project is protected under the MIT License.
 You may view, use, and modify the code under the terms of that license.  
 
 For full details, see the LICENSE.md file at:  
-[LICENSE]()
+[LICENSE](https://github.com/anugyamehrotra/Build-A-Discord-Bot/blob/main/LICENSE)
 
