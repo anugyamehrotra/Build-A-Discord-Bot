@@ -53,15 +53,13 @@ cd Build-A-Discord-Bot
 ### ✍️ 1. Dynamic Chat Interactions & Greetings
 - Responds naturally to a wide range of greetings (`hello`, `hey`, `yo`, `hiya`, etc.).  
 - Engages in multi-step conversation flows — sends different replies depending on whether it’s the first message or a follow-up.  
-- Includes **Magic 8-ball responses** for fun, randomized replies (`$8ball`).  
-- Tracks user state with sets (`waiting_for_reply`, `waiting_for_rps`) to manage context in conversations.
-
+- Includes **Magic 8-ball responses** for fun, randomized replies via (`$8ball`).  
 
 ### 🎭 2. Meme & GIF Generator
 - `$meme` — Fetches a random meme from the **Meme API** (`https://meme-api.com/gimme`) and posts it directly in chat.  
 - `$gif` — Uses the **Tenor API** to search and return an animated GIF based on user query.  
-- All content is pulled dynamically with **HTTP requests** and parsed from JSON.  
-- Ensures seamless entertainment and humor right inside the server.
+- All content is pulled dynamically with **HTTP requests** and parsed from JSON using Tenor API services.  
+- Ensures seamless entertainment and humor right inside the server for endless fun.
 
 <img width="540" height="280" alt="discord_bot_img2_project1" src="https://github.com/user-attachments/assets/27cd2f89-601e-4a40-8229-08fdc2e53def" />
 
@@ -69,7 +67,6 @@ cd Build-A-Discord-Bot
 - `$rps` — Starts an interactive **Rock-Paper-Scissors** game with the bot.  
 - Users can pick `rock`, `paper`, or `scissors`; the bot generates its own choice.  
 - Results are dynamically calculated with win/loss/tie logic and sent as chat messages.  
-- Tracks active players in real time using a **set-based state system**, ensuring smooth gameplay.
 
 <img width="540" height="280" alt="discord_bot_img3_project1" src="https://github.com/user-attachments/assets/80ba1a9d-45f1-41b6-bf60-d4dfd7a10728" />
 
