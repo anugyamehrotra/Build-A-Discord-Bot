@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/a0de051d-b737-4b71-b252-fa7b48a4b559" alt="layely logo" width="40" height="40" style="position: relative; top: 6px;" /> Build a Discord Bot
 
-A personalized sample project: a simple **Interactive Discord Bot** built for the AIML room in **NP Hacks**.
+A personalized sample project: a simple **Interactive Discord Bot** built for the AI/ML room in **NP Hacks**.
 
 This sample demonstrates foundational Python development concepts using only **Python** and **APIs**. It is designed to help students understand how to use Python constructs to design unique, expandable bots for online platforms, such a `Discord`, with the help of external APIs.
 
